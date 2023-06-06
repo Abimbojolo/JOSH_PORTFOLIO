@@ -138,7 +138,7 @@ The best performing model for Temperature Prediction in Aberdeen, United Kingdom
 
 ## Recommendations
 
-Temperature is a major factor that influences the social and economic wellbeing of a city. it is therefore necessary to device a predictive model to understand future temperature conditions, so as to enhance proper planning.  
+Temperature is a major factor that influences the Construction and Infrastructure Aberdeen, United Kingdom. it is therefore necessary to device a predictive model to understand future temperature conditions, so as to enhance proper planning.  
 Based on Analysis and Predictive Models as conducted in the study, the use of Random Forest (200 trees) can be adopted in Temperature Prediction in Aberdeen United Kingdom. This will aid proper planning and help prevent socio-economic activity from the harshness of weather.
 ## Future Works
 
